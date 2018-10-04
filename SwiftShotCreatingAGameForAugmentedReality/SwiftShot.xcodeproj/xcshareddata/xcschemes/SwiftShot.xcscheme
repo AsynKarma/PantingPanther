@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Scheme LastUpgradeVersion="1000" version="2.0">
+	<AnalyzeAction buildConfiguration="Debug" />
+	<ArchiveAction buildConfiguration="Release" revealArchiveInOrganizer="YES" />
+	<TestAction codeCoverageEnabled="NO" shouldUseLaunchSchemeArgsEnv="YES" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" buildConfiguration="Debug" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB">
+		<Testables>
+			<TestableReference skipped="NO">
+				<BuildableReference BlueprintIdentifier="D0066D472057259600A7E863" BlueprintName="SwiftShotTests" BuildableName="SwiftShotTests.xctest" BuildableIdentifier="primary" ReferencedContainer="container:SwiftShot.xcodeproj" />
+			</TestableReference>
+		</Testables>
+		<MacroExpansion>
+			<BuildableReference BlueprintIdentifier="D0066D312057259500A7E863" BlueprintName="SwiftShot" BuildableName="SwiftShot.app" BuildableIdentifier="primary" ReferencedContainer="container:SwiftShot.xcodeproj" />
+		</MacroExpansion>
+	</TestAction>
+	<ProfileAction savedToolIdentifier="" debugDocumentVersioning="YES" shouldUseLaunchSchemeArgsEnv="YES" buildConfiguration="Release" useCustomWorkingDirectory="NO">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BlueprintIdentifier="D0066D312057259500A7E863" BlueprintName="SwiftShot" BuildableName="SwiftShot.app" BuildableIdentifier="primary" ReferencedContainer="container:SwiftShot.xcodeproj" />
+		</BuildableProductRunnable>
+	</ProfileAction>
+	<BuildAction buildImplicitDependencies="YES" parallelizeBuildables="YES">
+		<BuildActionEntries>
+			<BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+				<BuildableReference BlueprintIdentifier="D0066D312057259500A7E863" BlueprintName="SwiftShot" BuildableName="SwiftShot.app" BuildableIdentifier="primary" ReferencedContainer="container:SwiftShot.xcodeproj" />
+			</BuildActionEntry>
+		</BuildActionEntries>
+	</BuildAction>
+	<LaunchAction selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" debugDocumentVersioning="YES" buildConfiguration="Debug" ignoresPersistentStateOnLaunch="NO" launchStyle="0" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" useCustomWorkingDirectory="NO" debugServiceExtension="internal" allowLocationSimulation="YES">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BlueprintIdentifier="D0066D312057259500A7E863" BlueprintName="SwiftShot" BuildableName="SwiftShot.app" BuildableIdentifier="primary" ReferencedContainer="container:SwiftShot.xcodeproj" />
+		</BuildableProductRunnable>
+	</LaunchAction>
+</Scheme>
